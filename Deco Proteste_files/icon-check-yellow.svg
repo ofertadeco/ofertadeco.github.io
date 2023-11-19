@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Atom/Icon/LIST/available Copy 6</title>
-    <g id="1.-Ultra" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Ultra01-HooverBroom" transform="translate(-1001, -1131)" fill="#E8FF27" stroke="#E8FF27" stroke-width="0.772727273">
-            <g id="Blocs" transform="translate(0, 827)">
-                <g id="colonneDroite" transform="translate(1000, 154)">
-                    <g id="Atom/Icon/LIST/available-Copy-6" transform="translate(3, 151.7635)">
-                        <path d="M1.91919192,4.57741373 C2.30481498,4.57741373 2.65393114,4.73371836 2.90664154,4.98642876 C3.15935194,5.23913916 3.31565657,5.58825532 3.31565657,5.97388955 L3.31546571,12.5774137 L18.0909091,12.5774137 C18.4737428,12.5774137 18.8203337,12.7325878 19.0712162,12.9834702 C19.3220987,13.2343527 19.4772727,13.5809436 19.4772727,13.9637774 C19.4772727,14.3466111 19.3220987,14.693202 19.0712162,14.9440845 C18.8203337,15.194967 18.4737428,15.350141 18.0909091,15.350141 L1.90909091,15.350141 C1.52625716,15.350141 1.17966625,15.194967 0.928783781,14.9440845 C0.677901308,14.693202 0.522727273,14.3466111 0.522727273,13.9637774 L0.522727273,5.97387838 C0.522727273,5.58825532 0.679031902,5.23913916 0.931742298,4.98642876 C1.18445269,4.73371836 1.53356886,4.57741373 1.91919192,4.57741373 Z" id="Rectangle-3-Copy" transform="translate(10, 9.9638) rotate(-45) translate(-10, -9.9638)"></path>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" xmlns:v="https://vecta.io/nano"><path d="M2.477 13.632a1.39 1.39 0 0 1 .987-.409 1.39 1.39 0 0 1 .987.409l4.669 4.67L19.569 7.854a1.38 1.38 0 0 1 1.961 0 1.38 1.38 0 0 1 0 1.961L10.088 21.257a1.38 1.38 0 0 1-1.961 0l-5.65-5.65a1.39 1.39 0 0 1 0-1.975z" fill="#e8ff27" stroke="#e8ff27" stroke-width=".773" fill-rule="evenodd"/></svg>
